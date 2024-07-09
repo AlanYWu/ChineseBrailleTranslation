@@ -1,0 +1,7 @@
+**/__pycache__/
+**/.ipynb_checkpoints/
+data_preparation/data
+data_preparation/processed_data
+data_preparation/sliced_data/
+data_preparation/output.log
+output-dirs/

@@ -1,0 +1,7 @@
+torch
+accelerate
+transformers
+datasets
+evaluate
+tensorboard
+sacrebleu
